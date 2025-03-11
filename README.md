@@ -13,6 +13,8 @@ This is my trial, with the help of deepseek and NOT WITH ANY HELP FROM those "gr
 
 NOT guarantee 100% fix but worth a try.
 
+0. remember to `update.packages()`
+
 1. find your user file and profile file
    (1) `.Rprofile`: type and execute `path.expand("~")` in your R console and copy the directory path to the folder address bar, then look for `.Rprofile`
    (2) `Rprofile.site`: type and execute `R.home("etc")` in your R console and copy the directory path to the folder address bar, then look for `Rprofile.site`
