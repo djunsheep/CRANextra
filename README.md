@@ -39,7 +39,9 @@ if (!require("drat")) {
 
 4. save and close the two files
 
-5. restart your R / R session / Rstudio / whatever
+5. in the same folder of the `Rprofile.site` there should be a `repositories` file, open it and remove the line with "CRANextra", save and close
+
+6. restart your R / R session / Rstudio / whatever
 
 
 So, I'm just a nobody trying to help other newbees like me who also has little knowlege of these kind of "easy bugs".
