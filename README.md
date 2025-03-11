@@ -1,5 +1,5 @@
 # CRANextra
-fixing the CRANextra warnings when installing packages
+trying to fix? the CRANextra warnings when installing packages
 
 
 If you're here you must have hit by this:
@@ -9,7 +9,9 @@ Warning: unable to access index for repository http://www.stats.ox.ac.uk/pub/RWi
 
 Some times it's not a warning but even an error.
 
-This is my solution, with the help of deepseek and NOT WITH ANY HELP FROM those "great developers" (#83 #91 #907 #943 etc.)
+This is my trial, with the help of deepseek and NOT WITH ANY HELP FROM those "great developers" (#83 #91 #907 #943 etc.)
+
+NOT guarantee 100% fix but worth a try.
 
 1. find your user file and profile file
    (1) `.Rprofile`: type and execute `path.expand("~")` in your R console and copy the directory path to the folder address bar, then look for `.Rprofile`
@@ -45,3 +47,5 @@ if (!require("drat")) {
 
 
 So, I'm just a nobody trying to help other newbees like me who also has little knowlege of these kind of "easy bugs".
+I'll keep this post open since this CRANextra problem is a zombie and comes back to live from time to time.
+Please let me know if there's any better way / alternatives, thanks.
