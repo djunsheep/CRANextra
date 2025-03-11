@@ -42,4 +42,4 @@ if (!require("drat")) {
 5. restart your R / R session / Rstudio / whatever
 
 
-So, I'm just a nobody trying to help other newbees like me who also has little knowlege of this "easy bugs".
+So, I'm just a nobody trying to help other newbees like me who also has little knowlege of these kind of "easy bugs".
