@@ -12,7 +12,7 @@ Some times it's not a warning but even an error.
 This is my solution, with the help of deepseek and NOT WITH ANY HELP FROM those "great developers" (#83 #91 #907 #943 etc.)
 
 1. find your user file and profile file
-   (1) `.Rprifile`: type and execute `path.expand("~")` in your R console and copy the directory path to the folder address bar, then look for `.Rprifile`
+   (1) `.Rprofile`: type and execute `path.expand("~")` in your R console and copy the directory path to the folder address bar, then look for `.Rprofile`
    (2) `Rprofile.site`: type and execute `R.home("etc")` in your R console and copy the directory path to the folder address bar, then look for `Rprofile.site`
 
 2. open these two files with notepad txt
